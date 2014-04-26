@@ -1,0 +1,43 @@
+# top-level directories and files
+
+/dev/
+/media/
+/mnt/
+/proc/
+/run/
+/swapfile
+/sys/
+/tmp/
+
+# caches
+
+/var/cache/man/
+/var/cache/ldconfig/
+/var/cache/fontconfig/
+/var/tmp/
+/var/lib/.monitorix-backup_asd/
+/var/lib/pacman/sync/
+/var/run/
+# monitorix cache
+/srv/.http-backup_asd/
+/home/*/.viminfo
+/home/*/tmp/
+/root/.viminfo
+/home/*/.cache/
+/root/.viminfo
+/root/.cache/
+/root/tmp/
+
+# files
+
+*~
+*.swp
+
+# misc
+
+lost+found/
+
+# home
+
+/home/bingrewards/bin/result/error_*.html
+/home/bingrewards/var/log/bingrewards/
